@@ -1,0 +1,5 @@
+Lo que se aprendió en esta tarea fue la utilización de nuevas plantas
+de la página 35 a 37 del libro “El Yerberito ilustrado” y como es que se usan y son cilantro,
+cocolMeca,colaDeCaballo,colchico,comino y copalchi. Estas fueron las plantas medicinales las cuales dieron cura o tratado para
+la diarrea, tos tuberculosa y picaduras.
+Se uso esta base de conocimiento para mejorar el conocimiento del programa escrito en prolog.
